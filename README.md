@@ -1,8 +1,4 @@
-# WHMCS-7.4.1-decoded
+parbatwebmaster@gmail.com
 
-Team My Little Pony (MLP) presents to you:
 
- 
-WHMCS 7.4.1 - DeIoncubed
-
-mylittleponyteam@protonmail.com
+my whmcs learning
